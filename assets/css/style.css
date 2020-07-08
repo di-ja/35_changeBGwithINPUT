@@ -1,0 +1,33 @@
+* {margin: 0;padding: 0;}
+
+#bg {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+article {
+  border: 1px solid white;
+  border-radius: 16px;
+  padding: 3%;
+  background-color: rgba(255, 255, 255, 0.4);
+  margin: 0 auto;
+  box-shadow: 0 0 30px grey;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 2em;
+  color: darkblue;
+}
+input {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 10%;
+  padding: 6px;
+}
+button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 10%;
+  padding: 6px;
+}
